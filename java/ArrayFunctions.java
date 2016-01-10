@@ -1,4 +1,9 @@
-
+/*
+ * Author: Jason Fullen
+ * Date: 01-10-2016
+ * Purpose: Answers to common array interview questions like printing in different patterns
+ *          and rotating array values. 
+ */
 public class ArrayFunctions {
 	
 	/*
